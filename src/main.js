@@ -1,5 +1,4 @@
-import './style.css';
-
+// CSS imported in HTML for compatibility
 document.addEventListener('DOMContentLoaded', () => {
     const menuToggle = document.querySelector('.menu-toggle');
     const desktopNav = document.querySelector('.desktop-nav');
